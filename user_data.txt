@@ -1,0 +1,1 @@
+[{"username":"jsiyum","email":"jubairsiyum@gmail.com","password":"$2y$10$ldNxxQs7ZmLS8.vsnuwh2.hiUCbn4cZ80Dyc\/7NB9SHDc5fS2Lloy","role":"admin"},{"username":"jubairsiyum","email":"jubairprogprodigy@gmail.com","password":"$2y$10$SA4iBh0AUSPDTBtWEV617uSoZ2W2700xQZotzx\/nGOvwFWkjYPe6W","role":"user"}]
